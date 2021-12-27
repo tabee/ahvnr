@@ -1,0 +1,4 @@
+github.com/nicholassm/go-ean v0.0.0-20160503113020-c3635ff48801 h1:KF5J13T7cl4Jwj32zW80Ji67t9ATK0dLvAeu/K07Izw=
+github.com/nicholassm/go-ean v0.0.0-20160503113020-c3635ff48801/go.mod h1:qfRkkTv2ZCSIqjuWyCAXgnDa276WhJ0kFxEDwYrfuHo=
+github.com/tabee/ahvvalidieren v0.0.0-20211226191129-1c2bc4f68dfc h1:+y4dY6y+fJY29FOcu5lYg8DKxEERVvSxwmWMpktELfo=
+github.com/tabee/ahvvalidieren v0.0.0-20211226191129-1c2bc4f68dfc/go.mod h1:d0p2Y9dBZXozO13iRYfsMrQUJWkx5FvLv6oS0mfA5X4=
